@@ -1,4 +1,4 @@
-# xv6-assignment-1
+# xv6-project-assignment
 
 ## Deskripsi Repo
 Repo ini merupakan repository yang dibuat untuk mengumpulkan assignment 1 dari mata kuliah Sistem Operasi. 
