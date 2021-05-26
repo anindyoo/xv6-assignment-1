@@ -228,8 +228,7 @@ UPROGS=\
 	_stressfs\
 	_usertests\
 	_wc\
-	_zombie\
-	_myprog\
+	_zombie\	
 
 UPROGS += $(CS333_UPROGS) $(CS333_TPROGS)
 
@@ -313,7 +312,6 @@ qemu-nox-gdb: fs.img xv6.img .gdbinit
 EXTRA=\
 	mkfs.c ulib.c user.h cat.c echo.c forktest.c grep.c kill.c\
 	ln.c ls.c mkdir.c rm.c stressfs.c usertests.c wc.c zombie.c\
-	myprog.c\
 	printf.c umalloc.c Makefile \
 	README dot-bochsrc *.pl toc.* runoff runoff1 runoff.list\
 	.gdbinit.tmpl gdbutil kernel.ld README-PDX\
